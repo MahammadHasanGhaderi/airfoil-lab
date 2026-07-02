@@ -14,3 +14,6 @@ It generates the geometry of airfoils such as NACA 0012, 4412, etc., and visuali
 - Reynolds number analysis
 - Panel method implementation
 - GUI-based interface for user interaction
+
+## Example Output
+![NACA 4412](images/naca4412.png)
